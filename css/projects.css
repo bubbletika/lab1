@@ -1,33 +1,23 @@
-.panel-body {
-	background-color: #76A698;
-	text-shadow: none; 
+.caption {
+	text-align: center;
 }
 
-.panel-title {
-	text-decoration: none;
+.btn-primary {
+	background-color: #C07878;
+	border-color: #C07878;
 }
 
-.panel-heading:hover,
-.panel-heading a:hover {
-	color: MintGreen;
-	background-color: IndianRed;
-	border-color: IndianRed;
-	text-decoration: none; 
+.btn-primary:hover {
+	background-color: #F4CDCF;
+	border-color: #F4CDCF;
 }
-
 
 body {
 	background-color: #333;
+	text-align: center;
+	padding-bottom: 7%;
 }
 
-a {
-	color: MintCream;
-}
-
-h5 {
-	text-align: center; 
-	color: #333
-}
 .jumbotron {
 	background-color: MintCream;
 	text-align: center;
